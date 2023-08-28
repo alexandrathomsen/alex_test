@@ -1,6 +1,8 @@
 # alex_test
 test repo for git &amp; github lesson
 
+Camila added some contributions here
+
 ## Purpose
 
 - Create a remote repo on GitHub
